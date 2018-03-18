@@ -1,0 +1,25 @@
+body {
+  padding-top: 60px;
+  width: 85%;
+  position: absolute;
+  left: 7.5%;
+  background-color: #d42b1e;
+}
+
+img {
+  width: 85%;
+  margin-bottom: 30px;
+}
+
+blockquote {
+  margin-top: 40px;
+  padding-bottom: 10px;
+}
+
+iframe {
+  margin-bottom: 30px;
+}
+
+footer {
+  margin-bottom: 20px;
+}
